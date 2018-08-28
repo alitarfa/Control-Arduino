@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.controller.tr.controllearduino.MainActivity">
+    <item
+        android:id="@+id/youtube"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@drawable/ic_icons8_youtube_2"
+        app:showAsAction="ifRoom" />
+</menu>

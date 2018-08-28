@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "501864695833",
+    "firebase_url": "https://controller-arduino.firebaseio.com",
+    "project_id": "controller-arduino",
+    "storage_bucket": "controller-arduino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501864695833:android:d36d91d0978422cb",
+        "android_client_info": {
+          "package_name": "com.controller.tr.controllearduino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501864695833-68lab4v73r0btrsvke8upaet0mvqniam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.controller.tr.controllearduino",
+            "certificate_hash": "db24fd81ddd744036a5947613a2fea72ff9b05de"
+          }
+        },
+        {
+          "client_id": "501864695833-vucq0igeg5b89tjbl06mt436l9b2bkap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgZAAcHTzqYXr-zDeCDjOJWOVrYjsVMEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501864695833-vucq0igeg5b89tjbl06mt436l9b2bkap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">controller Arduino</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bluetooth_main_list">BluetoothMainList</string>
+    <string name="title_activity_main_page">MainPage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6273099645029758/8656657130</string>
+</resources>
